@@ -1,5 +1,0 @@
-flask
-bcrypt
-pyotp
-cryptography
-SQLAlchemy

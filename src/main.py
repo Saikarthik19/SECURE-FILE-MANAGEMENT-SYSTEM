@@ -80,6 +80,6 @@ def upload():
             return redirect(url_for('dashboard'))
     return render_template('upload.html')
 
-# ✅ Add this part to start the web app
 if __name__ == "__main__":
     app.run(debug=True)
+
