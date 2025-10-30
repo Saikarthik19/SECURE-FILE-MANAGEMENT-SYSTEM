@@ -50,7 +50,7 @@ Browser (Chrome/Edge) – For running the Flask app
 
 📂 Folder Structure SecureFileManagementSystem/ │ ├── app/ │ ├── init.py │ ├── auth.py │ ├── routes.py │ ├── models.py │ └── templates/ │ ├── login.html │ ├── dashboard.html │ ├── upload.html │ └── scan_result.html │ ├── static/ │ ├── style.css │ └── script.js │ ├── database/ │ └── sfms.db │ ├── app.py ├── requirements.txt └── README.md
 
-⚡ Installation & Setup 1️⃣ Clone the Repository git clone https://github.com/Pagadalavishnukumar/SecureFileManagementSystem.git cd SecureFileManagementSystem
+⚡ Installation & Setup 1️⃣ Clone the Repository git clone https://github.com/Saikarthik19/SECURE-FILE-MANAGEMENT-SYSTEM.git cd SecureFileManagementSystem
 
 2️⃣ Create and Activate Virtual Environment python -m venv venv venv\Scripts\activate # On Windows source venv/bin/activate # On macOS/Linux
 
@@ -88,7 +88,7 @@ Provide digital signature verification
 
 🧾 Repository Info
 
-Repository Name: SecureFileManagementSystem GitHub Link: 
+Repository Name: SecureFileManagementSystem GitHub Link: https://github.com/Saikarthik19/SECURE-FILE-MANAGEMENT-SYSTEM.git
 🧑‍🎓 Author
 
-Name: Pagadala Vishnu Kumar Institution: Lovely Professional University, CSE- GEN_AI
+Name: PARVATHANENI SAIKARTHIK Institution: Lovely Professional University, CSE- GEN_AI
