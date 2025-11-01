@@ -86,6 +86,9 @@ Include real-time user activity monitoring
 
 Provide digital signature verification
 
+Biometric and tumbverification in offline
+
+
 🧾 Repository Info
 
 Repository Name: SecureFileManagementSystem GitHub Link: https://github.com/Saikarthik19/SECURE-FILE-MANAGEMENT-SYSTEM.git
