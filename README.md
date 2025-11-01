@@ -86,8 +86,6 @@ Include real-time user activity monitoring
 
 Provide digital signature verification
 
-Biometric and tumbverification in offline
-
 
 🧾 Repository Info
 
